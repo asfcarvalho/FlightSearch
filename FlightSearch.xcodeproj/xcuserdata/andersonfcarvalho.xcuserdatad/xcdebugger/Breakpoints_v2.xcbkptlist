@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "FECBD1DC-A94D-4164-9913-0BFE8F75DAF4"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "73AF2DD1-F443-4935-A861-EAE383A56E9C"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "FlightSearch/Scenes/Scenes.Result/ResultViewModel.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "47"
+            endingLineNumber = "47"
+            landmarkName = "fetchFlights()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "5DFFB900-8150-4B9E-AD78-84BC53F75FCE"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "DataModule/Mappers/Flight+Mapper.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "13"
+            endingLineNumber = "13"
+            landmarkName = "asFlight()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "5DFFB900-8150-4B9E-AD78-84BC53F75FCE - 53fe2de89b9f7c0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DataModule.FlightElement.asFlight() -&gt; DataModule.Model.Flight"
+                  moduleName = "DataModule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Doc/Projects/FlightSearch/DataModule/Mappers/Flight+Mapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "176">
+               </Location>
+               <Location
+                  uuid = "5DFFB900-8150-4B9E-AD78-84BC53F75FCE - 53fe2de89b9f7c0f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "DataModule.FlightElement.asFlight() -&gt; DataModule.Model.Flight"
+                  moduleName = "DataModule"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Volumes/Doc/Projects/FlightSearch/DataModule/Mappers/Flight+Mapper.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "13"
+                  endingLineNumber = "13"
+                  offsetFromSymbolStart = "380">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
